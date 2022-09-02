@@ -1,0 +1,2 @@
+# Newtextget
+for Elzero
